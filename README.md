@@ -6,4 +6,4 @@
  - JavaScript
 
 ### :mega: Sobre
-Calculadora de calorias com JavaScript.
+Calorie calculator with JavaScript.
